@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheBGamer
+- 👀 I’m interested in developing FiveM & RedM servers.
+- 🌱 I’m currently learning how to develop FiveM server
+- 💞️ I’m looking to collaborate on Fivem & RedM servers.
+- 📫 How to reach me ... you cannot!
